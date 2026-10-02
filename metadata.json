@@ -1,0 +1,8 @@
+{
+  "name": "LMS SMA Negeri 1 Batudaa Pantai",
+  "description": "Sistem Manajemen Pembelajaran (LMS) SMA Negeri 1 Batudaa Pantai untuk mengelola kehadiran siswa, materi pembelajaran, tugas, jurnal harian guru, dan penilaian sikap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
